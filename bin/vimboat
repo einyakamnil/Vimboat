@@ -1,0 +1,3 @@
+#!/bin/sh
+
+nvim --clean --cmd $XDG_CONFIG_HOME/vimboat/init.lua
